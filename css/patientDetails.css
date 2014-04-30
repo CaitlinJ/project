@@ -54,7 +54,8 @@ a:hover{
   color: #66add6;
 }
 
-header{ 
+header{
+  padding-top: 10px;
   top:0;
   width: 100%;
   border-bottom: solid 2px #999;
@@ -93,7 +94,6 @@ h4{
   font-weight: 100;
   font-size: 17px;
   padding-top: 10px;
-
   text-align: center;
   font: 17px "Helvetica", Helvetica, Arial, sans-serif;
 }
