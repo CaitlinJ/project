@@ -55,7 +55,7 @@ input[type=checkbox] {
 	position: relative;
 	box-sizing: border-box;
 	width: 50%;
-	height: 35%;
+	height: 33%;
 	background: #f0f0f0;
 	float: left;
 }
@@ -64,14 +64,14 @@ input[type=checkbox] {
 	position: relative;
 	box-sizing: border-box;
 	width: 50%;
-	height: 35%;
+	height: 33%;
 	background: #f0f0f0;
 	float: left;
 }
 
 .demo-placeholder {
 	width: 100%;
-	height: 89%;
+	height: 85%;
 	font-size: 14px;
 	
 }
